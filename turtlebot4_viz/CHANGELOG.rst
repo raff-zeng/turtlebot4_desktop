@@ -2,8 +2,8 @@
 Changelog for package turtlebot4_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.0 (2024-09-03)
+------------------
 * Add new `view_navigation` launch file
 * Remove Nav2 plugins from `view_robot` launch file
 * Load the description when using `view_model` launch file
