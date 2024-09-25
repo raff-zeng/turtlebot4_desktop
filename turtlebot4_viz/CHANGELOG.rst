@@ -2,8 +2,8 @@
 Changelog for package turtlebot4_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.1 (2024-09-25)
+------------------
 * Remove base_footprint from tf tree view
 * Move the Slam Toolbox plugin to a tab so it occupies the same screen real-estate as Nav2's plugin
 * Contributors: Chris Iverach-Brereton
